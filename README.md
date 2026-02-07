@@ -1,29 +1,29 @@
-# PBI-BankMuamalat-The Retail Pulse
-An end-to-end BI project for Bank Muamalat using BigQuery, Looker Studio, and Power BI. I transformed raw data into strategic dashboards to identify market trends and product performance. Focused on delivering actionable roadmaps for revenue growth and regional stability.
+# The Retail Pulse: BI Analyst Portfolio (Bank Muamalat)
 
-The Retail Pulse: BI Analyst Portfolio
-Project Overview
-End-to-end business intelligence project for Bank Muamalat analyzing retail performance data. The goal is to identify growth opportunities and stabilize revenue trends.
+### 📊 Project Overview
+This project is an end-to-end Business Intelligence analysis for **PT Sejahtera Bersama**, developed as part of the **Bank Muamalat** BI Analyst program. It focuses on decoding sales performance, regional growth, and product profitability through data-driven insights.
 
-Tech Stack
-Data Warehouse: Google BigQuery (SQL)
+---
 
-Visualization: Looker Studio & Power BI
+### 🛠️ Tech Stack & Workflow
+* **Data Warehouse:** Google BigQuery (SQL) for data cleaning and metric aggregation.
+* **BI Tools:** Looker Studio & Power BI for interactive dashboarding.
+* **Analysis Scope:** Time-series analysis, regional mapping, and product mix optimization.
 
-Analysis: Product Mix, Regional Trends, and Sales Volatility
+---
 
-Key Metrics & Findings
-Product Mix: High engagement in digital products (eBooks) vs. high revenue from hardware (Robots).
+### 📈 Key Insights
+* **Revenue Dynamics:** Successfully tracked a total revenue of **$1.7M** with a healthy **$150.57 Average Order Value (AOV)**.
+* **Product Gap:** Identified high market penetration in **eBooks** (3,123 units) but found the primary revenue engine in **Robots** ($743,505).
+* **Regional Stronghold:** **Washington** emerged as the top-performing territory with **$55,382** in total sales.
+* **Volatility Detection:** Spotted significant sales dips in **April and July**, highlighting the need for mid-quarter intervention.
 
-Regional Leader: Washington identified as the top-performing market.
+---
 
-Transactional Health: Maintained a stable Average Order Value (AOV) of $150.57 despite monthly fluctuations.
+### 💡 Strategic Roadmap
+* **Smart Bundling:** Implement a "Digital-to-Hardware" funnel to convert eBook buyers into premium Robot customers.
+* **The Washington Blueprint:** Replicate proven marketing strategies from the Washington territory to boost underperforming cities like Sacramento.
+* **Stability Plan:** Launch targeted "Mid-Quarter" loyalty campaigns during historical low-peak months to flatten the revenue curve.
+* **Quality Retention:** Ensure all future promotions protect the current **$150 AOV** to maintain high-value customer acquisition.
 
-Sales Trends: Significant revenue peaks reached $85K with identified dips in April and July.
-
-Strategic Roadmap
-Smart Bundling: Linking high-volume digital assets with premium hardware to drive conversion.
-
-Market Expansion: Replicating the Washington marketing blueprint in underperforming cities.
-
-Revenue Stabilization: Implementing targeted promotions during low-peak months to flatten the sales curve.
+---
